@@ -1,0 +1,1 @@
+pkg update -y && pkg install wget curl proot tar -y && wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu22/ubuntu22-lxqt.sh -O ubuntu22-lxqt.sh && chmod +x ubuntu22-lxqt.sh && bash ubuntu22-lxqt.sh
